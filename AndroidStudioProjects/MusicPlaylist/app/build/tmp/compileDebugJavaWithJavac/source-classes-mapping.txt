@@ -1,0 +1,23 @@
+com/example/musicplaylist/Music.java
+ com.example.musicplaylist.Music
+com/example/musicplaylist/MusicDataSource.java
+ com.example.musicplaylist.MusicDataSource
+com/example/musicplaylist/MusicAddSong.java
+ com.example.musicplaylist.MusicAddSong
+ com.example.musicplaylist.MusicAddSong$1
+ com.example.musicplaylist.MusicAddSong$2
+ com.example.musicplaylist.MusicAddSong$3
+ com.example.musicplaylist.MusicAddSong$4
+ com.example.musicplaylist.MusicAddSong$5
+ com.example.musicplaylist.MusicAddSong$6
+com/example/musicplaylist/BuildConfig.java
+ com.example.musicplaylist.BuildConfig
+com/example/musicplaylist/MusicDBHelper.java
+ com.example.musicplaylist.MusicDBHelper
+com/example/musicplaylist/MusicAdapter.java
+ com.example.musicplaylist.MusicAdapter
+ com.example.musicplaylist.MusicAdapter$MusicViewHolder
+com/example/musicplaylist/MainActivity.java
+ com.example.musicplaylist.MainActivity
+ com.example.musicplaylist.MainActivity$1
+ com.example.musicplaylist.MainActivity$2
